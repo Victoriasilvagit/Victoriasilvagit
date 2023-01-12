@@ -10,9 +10,9 @@
   <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Vic-pic" height="150" style="border-radius:50px;" src=" https://github.com/Victoriasilvagit/Victoriasilvagit/blob/main/img/eu.jpeg">
 </div>
-  
+ 
   ##
  
 <div> 
