@@ -1,4 +1,4 @@
-## Oiii eu sou a Victória, sou fascinada por programação e tecnologia!
+## Oiii Victória aqui, sou fascinada por programação e tecnologia!
 <div align="center">
   
 </div>
